@@ -1,0 +1,6 @@
+{
+  "name": "ASTRAFOLIO — Python Telegram Bot Hosting Platform",
+  "description": "Python Telegram botlarini 24/7 xavfsiz izolyatsiyalangan konteynerlarda joylashtirish, boshqarish, monitoring qilish va tahrirlash platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
